@@ -1,0 +1,45 @@
+# Project-specific
+CLAUDE.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# HuggingFace model cache (local, not for repo)
+# Models are downloaded automatically on first run
+# ~/.cache/huggingface/ — outside repo, but just in case:
+*.safetensors
+*.bin
+pytorch_model*
+
+# Uploaded/processed documents (never commit real documents)
+uploads/
+temp/
+*.redacted.pdf
+*.redacted.docx
+
+# Logs
+*.log
