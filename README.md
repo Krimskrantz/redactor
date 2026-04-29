@@ -10,7 +10,7 @@ Documents are processed entirely on-device. Nothing is sent to external services
 
 Swedish public authorities are required by law (*offentlighetsprincipen*) to release documents upon request, but must first redact personal data under GDPR. This tool automates the detection step while keeping a human in the loop for the final decision — and crucially, keeps all data inside the organisation's network.
 
-Built as a proof-of-concept for [GR (Göteborgsregionens Innovationsarena)](https://www.innovationsarena.gotebprgsregionen.se) to explore how municipalities can use locally running AI models in document workflows without violating data protection requirements.
+Built as a proof-of-concept for [GR (Göteborgsregionens Innovationsarena)](https://www.innovationsarena.goteborgsregionen.se) to explore how municipalities can use locally running AI models in document workflows without violating data protection requirements.
 
 ---
 
